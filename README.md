@@ -15,7 +15,10 @@ Cambios desde mi rama local llamada developer01.
 
 
 
-
+```mermaid
+---
+title: Example Git diagram
+---
 gitGraph
     commit
     commit
