@@ -11,4 +11,19 @@ Cambio para verificar contraseña.
 Una actualización más
 
 
-Cambios desde mi rama local llamada developer01
+Cambios desde mi rama local llamada developer01.
+
+
+
+
+gitGraph
+    commit
+    commit
+    branch develop
+    checkout develop
+    commit
+    commit
+    checkout main
+    merge develop
+    commit
+    commit
