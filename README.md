@@ -15,6 +15,7 @@ Cambios desde mi rama local llamada developer01.
 
 Cambios desde web editor
 
+Presiona <kbd>W</kbd>
 
 ```mermaid
 ---
